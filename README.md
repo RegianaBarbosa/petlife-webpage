@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O PetLife é uma landing page para apresentar informações sobre a clínica veterinária, seus serviços e contato. O design foca em uma interface limpa e intuitiva.
 
-[Veja o projeto finalizado](https://regianabarbosa.github.io/petlife-webpage/)
+<a href="https://regianabarbosa.github.io/petlife-webpage/" target="_blank">Veja o projeto finalizado</a>
 
 ## 📝 Licença
 
